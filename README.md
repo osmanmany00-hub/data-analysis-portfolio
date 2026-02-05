@@ -1,2 +1,3 @@
-# data-analysis-portfolio
-"Professional data analysis portfolio with 3 projects: Excel Dashboard, Titanic EDA, and RFM Customer Segmentation"
+  osmanmany00@gmail.com
+  osmanmany00-hub
+  
